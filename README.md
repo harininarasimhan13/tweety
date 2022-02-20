@@ -1,6 +1,6 @@
 # tweety-Hacklytics-2022
 Tweety - an NLP based tool used to study the replies to tweets 
-##Created by : Harini Narasimhan, Michael Murillo-Martinez, Mugundhan Murugesan  
+## Created by : Harini Narasimhan, Michael Murillo-Martinez, Mugundhan Murugesan  
 
 ## Inspiration  
 Expression: One of the first steps of mental health and well being​A common fear among people posting on social media is that someone will have a strong negative reaction to something you share.​These comments have a negative impact on the mood of the user. What if there are negative comments on a user posting about mental health problems. It may push them over the edge.​
